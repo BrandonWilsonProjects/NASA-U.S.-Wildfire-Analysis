@@ -31,7 +31,7 @@ print(pre_landsat_brick)
 # defining the color palette
 pre_ndiv_color = colorRampPalette(brewer.pal(11, "PiYG"))(100)
 
-# calculating Normalized Burn Ratio (NBR) [Landsat 8]
+# calculating Normalized Difference In Vegetation (NDIV) [Landsat 8]
 pre_NIR <- pre_landsat_brick[[5]]
 pre_RED <- pre_landsat_brick[[4]]
 
@@ -57,7 +57,7 @@ print(post_landsat_brick)
 # defining the color palette
 post_ndiv_color = colorRampPalette(brewer.pal(11, "PiYG"))(100)
 
-# calculating Normalized Burn Ratio (NBR) [Landsat 8]
+# calculating Normalized Difference In Vegetation (NDIV) [Landsat 8]
 post_NIR <- post_landsat_brick[[5]]
 post_RED <- post_landsat_brick[[4]]
 
