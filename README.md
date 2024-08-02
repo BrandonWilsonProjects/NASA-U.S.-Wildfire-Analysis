@@ -4,7 +4,7 @@
 River Complex / Evaluating the Effects of 2019 California
 Wildfire Fund
 
-Biodiverse regions across California remain vulnerable to harmful wildfires year round. Quantifying and
+  Biodiverse regions across California remain vulnerable to harmful wildfires year round. Quantifying and
 measuring these regions’ wildfire resilience is necessary for understanding where/how to allocate
 environmental resources. Several ecological wildfire studies have been conducted utilizing artificial
 intelligence and remote sensing to analyze and predict biodiversity damage across wildfire prone regions,
