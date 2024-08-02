@@ -1,6 +1,6 @@
-## NASA-U.S.-Wildfire-Analysis
+#### NASA-U.S.-Wildfire-Analysis
 
-Predicting 2025 and 2028 dNBR and dNDIV for Csarf Smith
+# Predicting 2025 and 2028 dNBR and dNDIV for Csarf Smith
 River Complex / Evaluating the Effects of 2019 California
 Wildfire Fund
 
