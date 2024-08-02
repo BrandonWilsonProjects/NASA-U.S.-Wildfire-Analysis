@@ -1,8 +1,8 @@
 # NASA-U.S.-Wildfire-Analysis
 
 ## Predicting 2025 and 2028 dNBR and dNDIV for Csarf Smith
-River Complex / Evaluating the Effects of 2019 California
-Wildfire Fund
+## River Complex / Evaluating the Effects of 2019 California
+## Wildfire Fund
 
   Biodiverse regions across California remain vulnerable to harmful wildfires year round. Quantifying and
 measuring these regions’ wildfire resilience is necessary for understanding where/how to allocate
