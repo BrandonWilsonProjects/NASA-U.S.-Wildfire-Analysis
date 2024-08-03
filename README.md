@@ -24,26 +24,6 @@ rates for elevated areas, warranting further analysis. Results of low variance, 
 treated unit and the synthetic control unit, poses concern for the positive effect of the 2019 Wildfire Fund.
 
 
-##Predictied dNBR - 2025 
-![dnbr2025github](https://github.com/user-attachments/assets/47a9ef86-4fca-4ac4-aa541eab5cebb6bf)
-
-
-
-
-##Predicted dNBR - 2028
-![dnbr2028github](https://github.com/user-attachments/assets/6f451235-a225-4fe4-a3333f156148c185)
-
-
-
-
-##Predicted dNDVI - 2025
-![dndvigithub](https://github.com/user-attachments/assets/127d65a1-278d-4cbe-a438-fe5b1bf58413)
-
-
-
-
-##Predicted dNDVI - 2028
-![dndvigithub2028](https://github.com/user-attachments/assets/cf0da80b-eeda-4fb08039b74c6fd135f6)
 
 
 
