@@ -23,6 +23,8 @@ strong resilience to rampant burns. This demonstrates a direct correlation to po
 rates for elevated areas, warranting further analysis. Results of low variance, post-treatment, between the
 treated unit and the synthetic control unit, poses concern for the positive effect of the 2019 Wildfire Fund.
 
+# Predicted dNBR 
+
 ![dnbr2025github](https://github.com/user-attachments/assets/3a14bcd0-5a7c-495c-b0c8-9e2673ac38c6)
 
 
@@ -34,6 +36,32 @@ treated unit and the synthetic control unit, poses concern for the positive effe
 
 
 ![dnbr2028github](https://github.com/user-attachments/assets/f401458b-5e5d-4fa3-b9a9-cb21cfe4c6cf)
+
+
+
+
+
+
+
+
+
+# Predicted dNDVI
+
+![dndvigithub](https://github.com/user-attachments/assets/b4cee993-1482-49d8-836d-40714b9490d0)
+
+
+
+
+
+
+
+
+
+![dndvigithub2028](https://github.com/user-attachments/assets/790c0584-71f5-4de5-8ab0-bc57dce04b30)
+
+
+
+
 
 
 
